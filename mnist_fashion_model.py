@@ -1,3 +1,6 @@
+
+# this code is written in colab
+
 import tensorflow as tf
 # Import TensorFlow Datasets
 import tensorflow_datasets as tfds
