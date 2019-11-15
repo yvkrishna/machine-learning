@@ -11,3 +11,4 @@ model.predict([100.0])
 from matplotlib.pyplot import *
 # plot(model.epochs,model.loss)
 print("the weights are {}".format(l0.get_weights()))
+# this is the end of the code
