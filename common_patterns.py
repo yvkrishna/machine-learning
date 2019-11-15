@@ -60,3 +60,4 @@ series += noise
 
 plt.figure(figsize=(10, 6))
 plot_series(time, series)
+plt.show()
