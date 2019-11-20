@@ -101,6 +101,8 @@ model.compile(optimizer='adam',
               
 model.summary()
 
+
+
 EPOCHS = 100
 history = model.fit_generator(
     train_data_gen,
